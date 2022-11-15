@@ -1,6 +1,6 @@
 ## DialougeActClassificationThesis
 Thesis project for "Increasing Robustness for Cross-domain Dialogue Act Classification on Social Media Data"
-By Marcus Vielsted (Marcus.vielsted@gmail.com) & Nikolaj Wallenius (Nikolaj@wallenius.dk)
+By Marcus Vielsted (Marcus.vielsted@gmail.com), Nikolaj Wallenius (Nikolaj@wallenius.dk) & Rob van det Goot (robv@itu.dk)
 
 ## Table of contents
 * [DataSets](#Data-Sets)
