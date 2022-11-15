@@ -1,0 +1,12 @@
+eval_loss	1.0703849792480469
+eval_F1_Score	0.7143921169253546
+eval_runtime	0.4153
+eval_samples_per_second	1444.71
+eval_steps_per_second	24.079
+epoch	3.0
+
+--------------------Model Information--------------------
+ModelName: google/mobilebert-uncased
+Parameters: 500-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

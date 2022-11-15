@@ -1,0 +1,12 @@
+eval_loss	1.0180119276046753
+eval_F1_Score	0.7616523562289378
+eval_runtime	0.5078
+eval_samples_per_second	1181.481
+eval_steps_per_second	19.691
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName: roberta-base
+Parameters: 16-75-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

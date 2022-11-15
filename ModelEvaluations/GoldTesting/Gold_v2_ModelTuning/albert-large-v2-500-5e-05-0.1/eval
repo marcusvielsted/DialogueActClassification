@@ -1,0 +1,12 @@
+eval_loss	0.9636911749839783
+eval_F1_Score	0.7215006161448557
+eval_runtime	3.1605
+eval_samples_per_second	189.846
+eval_steps_per_second	3.164
+epoch	3.0
+
+--------------------Model Information--------------------
+ModelName: albert-large-v2
+Parameters: 500-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

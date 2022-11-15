@@ -1,0 +1,8 @@
+_______________________________Deep Significance_______________________________
+Confidence level:	0.05
+Minimum epsilon:	0.00000
+Model A:	deberta-v3-base-16-125-7e-05-0.5-1-regular-1.0-1-Gold
+A scores:	, 0.55014, 0.54107, 0.55449, 0.54746, 0.56029
+vs.
+Model B:	deberta-v3-base-16-125-7e-05-0.5-1-normalized-1.0-1-Gold
+B scores:	, 0.54767, 0.52283, 0.53183, 0.54459, 0.55390

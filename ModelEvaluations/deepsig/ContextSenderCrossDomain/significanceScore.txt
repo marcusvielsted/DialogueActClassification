@@ -1,0 +1,6 @@
+_______________________________Deep Significance_______________________________
+Confidence level:	0.05
+Minimum epsilon:	0.0
+Model A:	deberta-v3-base-16-125-7e-05-0.5-3-regular-1.0-1-Predicted
+vs.
+Model B:	deberta-v3-base-16-125-7e-05-0.5-1-regular-1.0-1-Predicted

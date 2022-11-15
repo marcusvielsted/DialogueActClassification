@@ -1,0 +1,369 @@
+Utt_78;I can get you the HA apriball Scatterbugs any time in the next 3 hours.;offer;inform
+Utt_79;I could also get them to you tomorrow.;offer;continuer
+Utt_88;Sure.;acceptAction;agreement
+Utt_784;Holy shit.;positiveExpression;positiveExpression
+Utt_802;Bad human;negativeExpression;inform
+Utt_804;Well Done.;positiveExpression;positiveExpression
+Utt_817;Good man!;positiveExpression;positiveExpression
+Utt_822;God fucking damn it Im at work.;negativeExpression;inform
+Utt_829;Funny asf.;positiveExpression;inform
+Utt_846;Thanks!;positiveExpression;positiveExpression
+Utt_847;!;misc;misc
+Utt_865;“Ammmerrriicccuuhhhhh, fuckin Fuck yyeeaahhrr!”;positiveExpression;misc
+Utt_868;✌🏻✌🏻;misc;misc
+Utt_870;1;misc;positiveExpression
+Utt_872;2;misc;positiveExpression
+Utt_874;3;misc;positiveExpression
+Utt_877;4;misc;positiveExpression
+Utt_903;This fucking idiot is over here living in Kansas when he should be looking for work in Australia.;suggestion;continuer
+Utt_910;!;misc;misc
+Utt_938;You're commening on a gif where she's interviewing a political candidate for leadership of a major state, making arguments on behalf of gay rights.;inform;continuer
+Utt_944;Whiteknighting for ellen page lmao;inform;inform
+Utt_945;You still haven't explained how she's gone downhill.;inform;continuer
+Utt_946;Aight, you aren't worth talking to you.;inform;agreement
+Utt_952;Well done.;positiveExpression;positiveExpression
+Utt_958;You really aren't worth talking to.;inform;inform
+Utt_959;I really hope you learn to be introspective and see how fickle and whiney you are.;suggestion;inform
+Utt_965;Em a battle rapper so I’m expecting some deep Shit we never knew about mgk;inform;continuer
+Utt_969;"Your mom cheated on your dad when you were fifteen, bet you were sad when your grandpa died from cancer of the spleen.";inform;inform
+Utt_970;I'm predicting some disses;inform;inform
+Utt_980;Hope you're joking...;inform;disagreement
+Utt_981;So exotic;positiveExpression;continuer
+Utt_982;lmfaoo;positiveExpression;misc
+Utt_985;#NAME?;misc;propositionalQuestion
+Utt_986;#NAME?;misc;propositionalQuestion
+Utt_994;Emmy voters are only required to watch one episode in categories for individual achievements.;inform;inform
+Utt_995;In the case of Delta and Rupauls wins, the eligible voters most likely only watched one episode for each of them.;inform;elaborate
+Utt_1005;It's fun how wrong you are but you say it like a fact and people just upvote you because they think "oh this person knows what they are talking about".;inform;elaborate
+Utt_1009;This is all he's saying.;elaborate;continuer
+Utt_1011;For you to get all up in arms about something where you end up saying the same thing.... girl, 5G's.;elaborate;elaborate
+Utt_1013;He is basically saying Delta won for one wig which isn't true and invalidates Delta's achievement;elaborate;continuer
+Utt_1016;Courtney has her own talk show, Delta wins an Emmy, RuPaul wins her third, multiple queens are performing at sold out venues across the world; as someone who watched DR since S2, it's so amazing to see what this platform will do.;inform;inform
+Utt_1017;Edit: I forgot a lot of queens who have other awesome projects, like all of Venus D-lites achievements.;inform;inform
+Utt_1018;Shangie Angie &amp; Willam got parts in a major motion picture that the leads are talking up quite a bit on the press tour.;inform;inform
+Utt_1020;“A star is born” with Gaga;inform;inform
+Utt_1021;[Star Is Born](https://www.youtube.com/watch?v=nSbzyEJ8X9E);misc;misc
+Utt_1024;Alyssa has her own Netflix show and Bianca has two movies on there too;elaborate;continuer
+Utt_1025;Venus D’Lite is featured in Ripley’s Believe It or Not and gives out signed copies of them.;inform;inform
+Utt_1031;Creatine Dean;inform;inform
+Utt_1032;Clean Ambrose.;inform;inform
+Utt_1038;His old hair made him look like if you touched him, you'd need napkins.;elaborate;elaborate
+Utt_1044;That's why I go disposable;elaborate;continuer
+Utt_1051;You know, in hindsight...;elaborate;continuer
+Utt_1052;What i heard from TiJ is that back in the day water and protein powder tasted like shit, so most guys used milk instead of water.;inform;inform
+Utt_1053;Since milk isn’t that great for staying cut Benoit would force himself to drink it with water;elaborate;inform
+Utt_1056;Penny stocks are $5.00 or below...it’s been a penny stock for over a year.;inform;inform
+Utt_1057;But still crazy it’s under a dollar.;elaborate;elaborate
+Utt_1059;Lampert destroyed Sears.;inform;inform
+Utt_1062;That's way worse, in case you didn't know.;elaborate;continuer
+Utt_1063;OS2 oh fuck every where i've worked always has one or two special devices that run on OS2 usually just image a drive from a ghost taken 20 years ago slap it in and hope for the best.;inform;inform
+Utt_1064;couldn't imaging having thousands of them;elaborate;continuer
+Utt_1066;That describes it exactly how I understand they use it.;continuer;continuer
+Utt_1067;This was second hand, I did not work with the POS machines.;elaborate;continuer
+Utt_1068;&gt;windows 97
+
+&gt;a line of customers
+
+Not sure which lie is worse.;inform;continuer
+Utt_1069;Which has basically been Lampert's goal from the beginning.;continuer;continuer
+Utt_1070;Destroy the company and liquidate the assets for personal gain.;elaborate;continuer
+Utt_1071;It's telling that he's using his other company to buy off some of their best assets.;elaborate;elaborate
+Utt_1075;Windows 95 was replaced by Windows 98.;inform;inform
+Utt_1076;Last time I went there, I tried to buy a cheese grater, which they had on display and were marked as on sale.;continuer;continuer
+Utt_1077;They scanned it, said they don't sell cheese graters.;elaborate;continuer
+Utt_1079;They're over there.;elaborate;continuer
+Utt_1080;You marked the price down".;elaborate;inform
+Utt_1081;But they refused to sell it to me.;elaborate;elaborate
+Utt_1082;They had accidentally stocked cheese graters, then accidentally marked the price down, and still made no effort to remove them from the sales floor, which is presumably chock full of stuff they don't sell.;elaborate;elaborate
+Utt_1083;They already did.;correction;elaborate
+Utt_1084;Lamperts investments company heritage bought home services and Kenmore a few months ago.;elaborate;inform
+Utt_1086;No, not at all.;disagreement;agreement
+Utt_1087;They've been slowly dying for years.;elaborate;continuer
+Utt_1090;They used to all be owned but Lampert (through Seritage) sold the properties to himself and rented/leased them back to sears, probably at high rates.;continuer;elaborate
+Utt_1091;The whole thing is a giant asset strip designed to enrich Lampert.;elaborate;elaborate
+Utt_1094;It sounds like the idea was to command Sears into bad deals with his own company.;continuer;elaborate
+Utt_1095;The whole boob economy was way different back then.;continuer;inform
+Utt_1096;Teens who wanted to gaze upon breasts had fewer options, so throwing a couple of bare tiddies into your low-budget slasher movie could get really get butts into seats.;inform;inform
+Utt_1097;Boobs were a legitimate profit source.;inform;inform
+Utt_1098;These days, boobs are literally a click away at all times.;inform;inform
+Utt_1099;Still nice to see and all, but nobody’s going to sit through a movie they’re not really into just to get some boobage the way they would in the 80s.;elaborate;elaborate
+Utt_1100;I still like unexpected boobs the best;inform;inform
+Utt_1105;It doesn't make tv better;elaborate;elaborate
+Utt_1106;I was watching *The Night Manager* miniseries last week.;inform;inform
+Utt_1107;Elizabeth Debicki's boobs were a nice surprise that made the whole thing even more interesting.;elaborate;inform
+Utt_1108;I mean I sat through "Nuns on the Run" just for the shower scene when I was a kid.;continuer;continuer
+Utt_1109;Not to mention that Steven Segal movie where he was on a ship and Stormship Troppers.. ok stormship troopers was good.;elaborate;continuer
+Utt_1110;I’d say same could be said about comedies of that era.;continuer;elaborate
+Utt_1111;You get Beverly D’angelos boobs in National Lampoons vacation for no reason at all.;inform;inform
+Utt_1112;Bad news, though, the celebrities often have body doubles cgi'd in so you might as well have been surfing deepfakes.;continuer;continuer
+Utt_1115;Swordfish ...;inform;inform
+Utt_1116;I remember seeing Kentucky Fried Movie on cable when I was 12 late at night.;inform;inform
+Utt_1117;I think boobs in movies are still something that people are missing out on.;inform;inform
+Utt_1118;I think what will bring this back in a big way is a psycho killer with big boobs that gets blood sprayed all over them every time she slashes someone's throat.;elaborate;elaborate
+Utt_1119;This is how we get true equality.;elaborate;elaborate
+Utt_1120;Starship Troopers was marines vs giant bugs.;inform;inform
+Utt_1121;Well.;continuer;agreement
+Utt_1122;No unseeing that now.;elaborate;continuer
+Utt_1123;r/eyebleach;misc;misc
+Utt_1124;I do not like this.;continuer;continuer
+Utt_1125;I do not like you.;inform;inform
+Utt_1126;How do I delete someone else's comment?;setQuestion;propositionalQuestion
+Utt_1127;Uhhh;misc;positiveExpression
+Utt_1128;/r/BoobEquality;misc;misc
+Utt_1129;i started the show when it aired on amc and found out it already aired on bbc, so i decided, f it, i'll watch it on my computer cause i couldn't wait
+
+it's really subtle but in one of the scenes where she's wearing a loose top and leans over, you can see her nipple in the bbc version so i had to check when that episode aired on amc, and when she leaned over her nipple was covered/colored by shadow
+
+one of the surprising things this year was watching *Yellowstone* on The Paramount Network (formerly Spike), and i didn't expect [Kelly Reilly](https://gfycat.com/incompatiblefoolhardyimpala) surprise [nipples](https://gfycat.com/BlushingFeistyGrayling)
+
+anyways...&lt;3 Elizabeth Debicki aka 6'3" goddess
+
+just need 5'11" Karen Gillan plot;continuer;continuer
+Utt_1130;half a million for a topless Halle... worth it;inform;inform
+Utt_1131;This thing is older than the US;continuer;elaborate
+Utt_1133;Hey some of those had their turn already.;continuer;agreement
+Utt_1134;You don’t get seconds until everyone’s had a first.;inform;inform
+Utt_1135;That is an interesting way to think about it.;continuer;continuer
+Utt_1136;In a short time we've practically used all of it to build an army force that can't be beat.;elaborate;elaborate
+Utt_1137;Iirc the navy alone is suited to take out the entire world by itself.;inform;continuer
+Utt_1138;I don't know if this includes marines.;elaborate;continuer
+Utt_1139;#Luxembourg when?;setQuestion;propositionalQuestion
+Utt_1141;Yes but this thing is living.;disagreement;agreement
+Utt_1142;Now all I can see is this shark reacting to a fucking homicide;continuer;continuer
+Utt_1143;I just see a shark.;inform;inform
+Utt_1144;They are not as top of the line as thought, they are in the middle of a horrible economic crisis as well as several other issues, they have massively overspent resources on military again.;disagreement;elaborate
+Utt_1145;( russia is the same.);inform;inform
+Utt_1146;they are beginning to see serious issues with civilian subversion.;elaborate;elaborate
+Utt_1147;They have tied all concepts of social interaction to a form of currency.;elaborate;elaborate
+Utt_1148;So poverty and poor social standing further ostrasize you.;inform;elaborate
+Utt_1149;They have introduced social media and credit and tie them in with your standing with your government and wether if you have even gotten a speeding ticket and if someone spotted you arguing with a family member.;elaborate;elaborate
+Utt_1150;It is draconian but very effective for shame ladden societies.;elaborate;elaborate
+Utt_1152;&gt;they are beginning to see serious issues with civilian subversion.;continuer;elaborate
+Utt_1153;That's not a bug.;elaborate;disagreement
+Utt_1154;It's a feature.;elaborate;elaborate
+Utt_1155;Sometimes you gotta go with the Zergling rush.;inform;instruct
+Utt_1156;Other times you gotta hold off until you can get the nukes.;elaborate;elaborate
+Utt_1157;Everything must come to an end;inform;elaborate
+Utt_1158;Its one thing to take out the entire world and an entirely different thing to actually be able to hold it.;disagreement;elaborate
+Utt_1159;Many countries simply don't need that amount of standing military due to their alliance with the US or a similarly armed country.;elaborate;elaborate
+Utt_1160;Hypothetically if the US did that though the countries would mobilize and we wouldn't be able to hold that much land.;elaborate;elaborate
+Utt_1161;Unless you just mean turning everything to a glass sheet with rad scorpions and mutants everywhere.;propositionalQuestion;elaborate
+Utt_1162;Theres a mass of people uncomfortable with how this program works, it is directly meant to do what it does.;continuer;elaborate
+Utt_1163;It is very orwellianx2.0.;elaborate;agreement
+Utt_1164;The subversian issue is that people find ways to rebel and undercut said system, government trust there, as it is here is at an all time low.;elaborate;inform
+Utt_1165;Due to.scandals, a few so bad they were even in the news in the US.Their military manuevers outwardly (aggressive) doesnt entirely reveal the goings on within the country.;elaborate;elaborate
+Utt_1166;Once again russia has a similar problem.;elaborate;continuer
+Utt_1167;In their fight to unseat us, it leaves both them fighting for scraps instead of sitting at the table and looking at whats on their plate.;elaborate;elaborate
+Utt_1168;Day 752 in the wasteland, irradiated toilet water and molemeat for breakfast again.;inform;inform
+Utt_1169;I did not mean totally obliterate the world population, lol.;correction;inform
+Utt_1171;Not considering illegal warfare or nuclear weapons in that statement.;elaborate;continuer
+Utt_1172;when they finally wc and make iSorrow proud, until then, only time will tell;continuer;elaborate
+Utt_1173;&gt; rule the world
+
+If history repeats itself then we have learned that this hardly ever lasts.;continuer;elaborate
+Utt_1174;The US is ruling the world?;propositionalQuestion;propositionalQuestion
+Utt_1175;Fill them up with other stuff first.;instruct;instruct
+Utt_1176;Any suggestions?;propositionalQuestion;propositionalQuestion
+Utt_1177;Honey?;propositionalQuestion;propositionalQuestion
+Utt_1178;Mayonnaise generally is a strong deterrent;inform;inform
+Utt_1179;[A large influx of BEES outta put a stop to that.;continuer;inform
+Utt_1180;](https://youtu.be/PYtXuBN1Hvc);misc;misc
+Utt_1181;3d print solid shapes the size of each compartment and block them up until you want to use it yourself;instruct;inform
+Utt_1182;Mouse traps;continuer;inform
+Utt_1183;Fish, and don’t call me honey.;instruct;instruct
+Utt_1184;Mousetraps!;inform;inform
+Utt_1185;Surely you can't be serious.;propositionalQuestion;continuer
+Utt_1186;Tired gauge, various chargers.;continuer;inform
+Utt_1187;Bears.;continuer;inform
+Utt_1188;Milk works too.;continuer;continuer
+Utt_1189;Accidentally spilled Batida-de-coco in a tent when I was 17 and on vacation with my back then gf and we didn't **properly** clean it, only uses tissues and no water.;inform;inform
+Utt_1190;That fucking tent stank so horrible, we had to leave it open during the day just so we could sleep in the evening.;elaborate;continuer
+Utt_1191;[Not the Bees!!!;disagreement;disagreement
+Utt_1192;](https://www.youtube.com/watch?v=EVCrmXW6-Pk);misc;misc
+Utt_1193;I'm sure you'll figure it out.;continuer;elaborate
+Utt_1195;Fill your wife up with other stuff?;propositionalQuestion;propositionalQuestion
+Utt_1196;Here’s what you gotta do.;continuer;instruct
+Utt_1197;Find a bee hive.;instruct;instruct
+Utt_1198;Kidnap the queen.;instruct;inform
+Utt_1199;Extract her alarm pheromones.;instruct;instruct
+Utt_1200;Put that on a flushable wipe.;instruct;instruct
+Utt_1201;Put that in her bathroom.;instruct;instruct
+Utt_1202;Cottage cheese, glue, corn syrup, and drain cleaner.;continuer;inform
+Utt_1203;Idk what’ll happen if they mix but I imagine it’ll be both very unpleasant and impossible to clean.;elaborate;elaborate
+Utt_1204;I am, and how do you know my name?;setQuestion;propositionalQuestion
+Utt_1205;Fill you car with tinder dates.;instruct;instruct
+Utt_1206;That's a pretty good deterrent.;elaborate;elaborate
+Utt_1207;Hey you!;greeting;positiveExpression
+Utt_1208;&gt; The Angels, as was reported here, tried to sign him to an all-time long deal at the time they were able to compromise and form the $144 million, six-year deal through 2020.;continuer;continuer
+Utt_1209;Not true.;disagreement;agreement
+Utt_1210;It was Trout that offered the lifetime contract and the Angels rejected it, not the other way around.;correction;elaborate
+Utt_1212;does the angels FO suffer from some blood-brain disease?;propositionalQuestion;propositionalQuestion
+Utt_1213;trout had 2 seasons played at the time.;inform;inform
+Utt_1214;two MVP seasons sure but it's really fucking hard to offer someone that's played 2 seasons 400M.;elaborate;continuer
+Utt_1215;this is the MLB, that money is completely guaranteed and one injury could fuck them for a decade.;elaborate;continuer
+Utt_1216;WHAT;setQuestion;setQuestion
+Utt_1217;:(;misc;misc
+Utt_1219;Trouty gonna get paiiiiid Angels or not.;inform;inform
+Utt_1220;Wow, is that true?;propositionalQuestion;propositionalQuestion
+Utt_1221;He must really love playing there.;elaborate;continuer
+Utt_1223;Hand foot and brain disease?;propositionalQuestion;propositionalQuestion
+Utt_1224;Blood-brain, fungus-foot and hairy-hand dysentery-disease.;continuer;inform
+Utt_1225;Does Peter Angelos run the Angels too?;propositionalQuestion;propositionalQuestion
+Utt_1226;Teams typically take out an insurance policy against large contracts to prevent exactly this.;continuer;elaborate
+Utt_1227;I'm not saying you're wrong, but I'd love some sort of source on that.;continuer;continuer
+Utt_1229;Mike Trout, Yankee great and first ballot HOF-er;inform;inform
+Utt_1230;Please no.;disagreement;positiveExpression
+Utt_1231;They do, but no insurance company is going to cover a contract of that length.;correction;elaborate
+Utt_1232;Insurance underwriting for baseball typically only goes for three years, particularly since the Albert Belle debacle.;inform;inform
+Utt_1233;Teams can renew the deal when it runs out, but it's still a major risk and they can still get fucked over for a decade.;elaborate;elaborate
+Utt_1234;Pls yes.;agreement;agreement
+Utt_1235;That + he was.. 23?;propositionalQuestion;propositionalQuestion
+Utt_1236;He would have secured a lifetime of leisure for his grandkids simply by agreeing to play somewhere?;propositionalQuestion;propositionalQuestion
+Utt_1237;I'd sign a lifetime contract with any team in the league for $300m at 23, regardless of how good I was.;elaborate;inform
+Utt_1238;It doesn't matter if that team is a perennial cellar dweller.;elaborate;elaborate
+Utt_1239;I know players want to win, but it's not often you get a chance to lock in that kind of money that young.;elaborate;inform
+Utt_1240;Yeah we'd take him.;agreement;agreement
+Utt_1241;He'd have to play well to get his # retired, but seems like it would work out well for both sides.;elaborate;elaborate
+Utt_1243;Bow down to your Dragonborn-Boo;instruct;instruct
+Utt_1244;You missed the opportunity to say Dragonboorn;continuer;inform
+Utt_1245;Are you saying Boo or Boo-urns;choiceQuestion;propositionalQuestion
+Utt_1246;i was saying boo-urns...;inform;inform
+Utt_1247;boo-rial urns;continuer;inform
+Utt_1248;Open Burial Urn (Empty)
+*Click*
+"Oh for fuck's sake.";inform;inform
+Utt_1249;Hello there my friend;greeting;positiveExpression
+Utt_1250;After 10 empty urns you find one with a gem, ring, and 4 gold inside;inform;inform
+Utt_1251;And the six dragur you somehow didn't hear walking up beyond you.;continuer;elaborate
+Utt_1252;You've never finished the Barenziahs quest, it appears.;continuer;inform
+Utt_1253;ever pay off that gremlin?;propositionalQuestion;propositionalQuestion
+Utt_1254;Ur creepy;inform;inform
+Utt_1255;I think it's on the window, not the screen.;correction;continuer
+Utt_1256;Yep;agreement;agreement
+Utt_1257;Summoning Taedra.;inform;inform
+Utt_1258;Follow-up question: why does your window say.;setQuestion;propositionalQuestion
+Utt_1260;Anti-bird strike stickers, maybe?;propositionalQuestion;propositionalQuestion
+Utt_1261;It is one of the best things his girlfriend has.;continuer;elaborate
+Utt_1262;"tit"s;elaborate;misc
+Utt_1263;Could be a glass door.;continuer;inform
+Utt_1264;Stickers make it obvious the door is closed so you don't walk into it.;elaborate;inform
+Utt_1265;Is that a problem a lot of people have?;propositionalQuestion;propositionalQuestion
+Utt_1266;Why do people take pictures of their PC monitors?;setQuestion;propositionalQuestion
+Utt_1267;They probably think screenshot technology is exclusive to phones.;continuer;elaborate
+Utt_1268;Some people dont know screenshotting is a thing probably, or they forget the input like I do every single time, it's like...ctrl+prntscrn+some other bullshit for mine.;inform;inform
+Utt_1269;Windows 10 -- Windows Key + Shift + S is the fun way.;inform;inform
+Utt_1270;No, you simply press the PrintScreen button.;correction;disagreement
+Utt_1271;Some people only Reddit on mobile so might be a reason.;continuer;elaborate
+Utt_1272;Laziness is another.;elaborate;continuer
+Utt_1273;I would just have to argue that laziness is part of every reason.;continuer;inform
+Utt_1274;Do you know how many people would have to Google "how to screenshot on my computer"
+Shit, I still don't remember since the last time I had to.;propositionalQuestion;propositionalQuestion
+Utt_1275;Snipping tool, ftw;continuer;inform
+Utt_1276;I think it’s alt printscreen.;disagreement;continuer
+Utt_1277;No, hold up, is it windows alt printscreen?;propositionalQuestion;propositionalQuestion
+Utt_1278;Or control windows printscreen?;propositionalQuestion;propositionalQuestion
+Utt_1279;Printscreen for the full desktop.;inform;inform
+Utt_1280;Alt printscreen for the window.;inform;inform
+Utt_1281;Edit: phone put website instead of window.;inform;inform
+Utt_1283;I never knew that!;continuer;agreement
+Utt_1284;Holy shit now I don't have to crop out my second monitor anymore;inform;inform
+Utt_1285;That makes no sense, if you're at your computer then there's no reason not to use the website, also it's easier to take a screenshot than to use your phone.;disagreement;agreement
+Utt_1286;People are weird.;inform;inform
+Utt_1287;Not if you're on Reddit using your phone and on your computer at the same time doing somethig else entirely.;disagreement;continuer
+Utt_1288;I do this often when I'm using two devices at once.;elaborate;continuer
+Utt_1289;Save at least 20-30seconds.;elaborate;inform
+Utt_1290;I don't care how you feel about it, so there...;elaborate;continuer
+Utt_1291;That is just wrong, it takes literally two seconds to open the browser and go to Reddit, you're not saving time by doing that at all.;disagreement;agreement
+Utt_1292;You can inconvenience yourself, making things shittier for no reason as well as taking shitty screenshots that no one wants to see, not my problem, but objectively speaking what you're doing is worse.;elaborate;elaborate
+Utt_1293;Edit: OMG THAT WAS SO DIFFICULT https://puu.sh/Bt5d1/b952e7e644.png
+
+Took me not even 5 seconds to make that screenshot and upload it.;elaborate;agreement
+Utt_1294;Yes facts do hurt you all, funny.;elaborate;agreement
+Utt_1295;Edit2: For those that want to use computers to take screenshots like normal people, here https://getsharex.com/ this is a nice piece of software that will do everything with ease.;inform;inform
+Utt_1296;Or just use the snipping tool that's built into windows;continuer;instruct
+Utt_1297;Or log in your reddit account on your computer for 5 minutes;continuer;instruct
+Utt_1298;I'm Asian and I don't know what that means.;continuer;inform
+Utt_1299;Some people are just technologically inept.;inform;inform
+Utt_1301;No wonder this post was filled with toxicity, League player explains everything.;continuer;continuer
+Utt_1302;Another program bama broke smh;continuer;inform
+Utt_1304;I think LSU might have sped it up for you guys this weekend.;continuer;inform
+Utt_1305;That was just a tough loss, Alabama literally breaks teams;continuer;continuer
+Utt_1306;Bama didn't break Clemson... *remembers 2008*... never mind.;correction;inform
+Utt_1307;It's not untrue.;agreement;agreement
+Utt_1309;But they did.;elaborate;elaborate
+Utt_1310;And they will again.;elaborate;elaborate
+Utt_1311;Too much talent to close by for the Canes to be down long.;elaborate;continuer
+Utt_1313;Wonder if Miami drank the kool-aid going into that game.;propositionalQuestion;instruct
+Utt_1315;Texas.;elaborate;inform
+Utt_1318;Miami played in the national championship in the 94 season so that's a bad example but yeah Texas &amp; LSU sheesh;agreement;continuer
+Utt_1319;First Texas and now FSU.;continuer;inform
+Utt_1320;Wtf I love Bama now?;propositionalQuestion;propositionalQuestion
+Utt_1321;Don’t forget Michigan State.;instruct;instruct
+Utt_1322;MSU 3-9 in 2016 after the playoff beat down.;continuer;inform
+Utt_1323;Can confirm.;agreement;agreement
+Utt_1324;They helped rebuild us?;propositionalQuestion;propositionalQuestion
+Utt_1325;Crap, forgot about that.;continuer;agreement
+Utt_1327;Bama broke Michigan State doubly because before the 2015 CFP, we had already been crushed by the tide in a bowl game 49-7.;continuer;inform
+Utt_1333;This is the perfect analogy.;continuer;continuer
+Utt_1335;Yeah yall fired Bowden a few weeks later, you're welcome.;agreement;agreement
+Utt_1336;I believe the year they opened up with Bama in ATL was the year they fired Bowden after losing to Wake later in the season, and promoted the assistant coach with the funny name to interim HC?;propositionalQuestion;propositionalQuestion
+Utt_1337;Florida!;continuer;inform
+Utt_1340;- Lose big game to Alabama 
+
+- Follow up the loss with a bad season
+
+- Your great coach leaves for another program 
+
+- Get a new coach that’s relatively unproven 
+
+
+Another thing I noticed is the QBs.;instruct;continuer
+Utt_1343;2009 Florida can attest;agreement;inform
+Utt_1344;Probably because the coaches spared Darnold;continuer;elaborate
+Utt_1345;Sounds familiar.;continuer;agreement
+Utt_1346;Cute but why the fuck does a certain culture let animals—be it dogs or roos— lick them IN the mouth???;setQuestion;propositionalQuestion
+Utt_1347;Nasty AF and totally unnecessary.;negativeExpression;inform
+Utt_1348;The nose was bad enough, but I “ewwwww”ed out loud when it got to the mouth part.;continuer;continuer
+Utt_1349;No culture and that is the problem.;continuer;continuer
+Utt_1350;My in laws are far too lax about this, when I saw I couldn't help myself and blurted out "Jesus that Is disgusting, how can you stand having a dog's tongue INSIDE your mouth.";continuer;continuer
+Utt_1352;A dogs mouth is cleaner than a humans mouth, do you let your girlfriend / boyfriend kiss you?;propositionalQuestion;propositionalQuestion
+Utt_1353;Nasty AF;negativeExpression;inform
+Utt_1354;This is not true.;disagreement;disagreement
+Utt_1360;Maybe the guy didnt want to get kicked in the balls.;propositionalQuestion;propositionalQuestion
+Utt_1361;And humans carry HIV.... so there’s that....;continuer;elaborate
+Utt_1362;He should have restrained himself and just fingered it.;suggestion;continuer
+Utt_1365;Not exactly true.;disagreement;agreement
+Utt_1366;It's not really any cleaner but it is harder to transmit sickness from a dog to a human.;correction;elaborate
+Utt_1370;Imagine where that tongue was before.;instruct;instruct
+Utt_1373;I think a human would know if a wolf trusts them or not a little bit before the licking does or doesn’t happen lol.;continuer;elaborate
+Utt_1375;Yea and that dog would not eat some of the things we humans eat, let that sink in;agreement;agreement
+Utt_1376;But they cannot be transmitted via mouth, the worst they can do is salmonella if they are raw fed,.;correction;elaborate
+Utt_1378;I know that source, but they say we have 615 bacteria in our mouths while the dog have 600, and also like u mentioned they dont spread diseases like we do, so to me that tells me their mouth are cleaner and safer to "kiss" :D;continuer;continuer
+Utt_1379;It's simple, you just have to close your mouth;continuer;continuer
+Utt_1380;I don't think that's the worst yet.;continuer;continuer
+Utt_1383;That's wrong on so many levels but I gave you an upvote cuz I lol'd;continuer;agreement
+Utt_1384;The Stampede?;propositionalQuestion;propositionalQuestion
+Utt_1385;Right?;propositionalQuestion;propositionalQuestion
+Utt_1386;The 2 million $$ man?;propositionalQuestion;propositionalQuestion
+Utt_1390;Long long man;continuer;inform
+Utt_1393;Loooooooong maaaaaaaaan;continuer;negativeExpression
+Utt_1394;I was pleased with myself when I got the first reference.;continuer;elaborate
+Utt_1396;&gt; The 2 million $$ man?;propositionalQuestion;propositionalQuestion
+Utt_1402;Cowboy Bebop first?;propositionalQuestion;propositionalQuestion
+Utt_1407;Can I get some backstory?;propositionalQuestion;propositionalQuestion
+Utt_1409;do you need more than that?;propositionalQuestion;propositionalQuestion
+Utt_1411;Yea, poor girl.;agreement;agreement
+Utt_1417;The way his own kid rejects him should tell you something.;suggestion;elaborate
+Utt_1418;How do his kisses seem sexual?;setQuestion;propositionalQuestion
+Utt_1423;Like any other teen when their parents try to hug or kiss them in public.;agreement;elaborate
+Utt_1424;If she's a teen then why is that guy holding her like a baby?;setQuestion;propositionalQuestion
+Utt_1425;Yeah for real wth;agreement;agreement
+Utt_1444;What the hell do i know.;setQuestion;setQuestion
+Utt_1453;Came here to say this;agreement;continuer
+Utt_1455;Yeah.;agreement;agreement
+Utt_1463;Ser Baristan Selmy;propositionalQuestion;inform
+Utt_1467;When did he die lol ?;setQuestion;setQuestion
+Utt_1477;I mean that's technically possible.;agreement;disagreement
+Utt_1479;You may be right!;agreement;agreement
+Utt_1492;How about environmentally friendly people who want to conserve fuel?;setQuestion;propositionalQuestion
+Utt_1595;Either everyone libertarian is embarassed about what they do for a living or I'm just really good at sniffing out the losers.;choiceQuestion;elaborate

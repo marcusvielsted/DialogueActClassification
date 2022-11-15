@@ -1,0 +1,12 @@
+eval_loss	1.1391886472702026
+eval_F1_Score	0.7516212896509286
+eval_runtime	0.9782
+eval_samples_per_second	613.343
+eval_steps_per_second	10.222
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName: bert-base-uncased
+Parameters: 16-250-9e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

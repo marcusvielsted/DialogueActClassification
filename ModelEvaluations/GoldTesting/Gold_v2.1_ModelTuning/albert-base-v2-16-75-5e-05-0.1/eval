@@ -1,0 +1,12 @@
+eval_loss	0.9887343049049377
+eval_F1_Score	0.7337318014352184
+eval_runtime	0.6062
+eval_samples_per_second	989.762
+eval_steps_per_second	16.496
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName: albert-base-v2
+Parameters: 16-75-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

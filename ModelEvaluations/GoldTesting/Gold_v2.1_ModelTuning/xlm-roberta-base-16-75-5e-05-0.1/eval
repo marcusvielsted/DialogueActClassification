@@ -1,0 +1,12 @@
+eval_loss	1.0002301931381226
+eval_F1_Score	0.7211039780645577
+eval_runtime	0.5463
+eval_samples_per_second	1098.238
+eval_steps_per_second	18.304
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName: xlm-roberta-base
+Parameters: 16-75-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

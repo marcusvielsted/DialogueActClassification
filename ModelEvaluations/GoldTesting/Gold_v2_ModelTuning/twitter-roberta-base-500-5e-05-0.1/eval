@@ -1,0 +1,12 @@
+eval_loss	0.9180492162704468
+eval_F1_Score	0.7512899659193436
+eval_runtime	0.8726
+eval_samples_per_second	687.575
+eval_steps_per_second	11.46
+epoch	3.0
+
+--------------------Model Information--------------------
+ModelName: cardiffnlp/twitter-roberta-base
+Parameters: 500-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

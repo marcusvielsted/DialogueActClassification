@@ -1,0 +1,12 @@
+eval_loss	0.9571319818496704
+eval_F1_Score	0.7661332957660606
+eval_runtime	0.4749
+eval_samples_per_second	1263.536
+eval_steps_per_second	21.059
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName: vinai/bertweet-base
+Parameters: 16-125-9e-05-0.5
+random seed = 130
+--------------------Training Arguments --------------------

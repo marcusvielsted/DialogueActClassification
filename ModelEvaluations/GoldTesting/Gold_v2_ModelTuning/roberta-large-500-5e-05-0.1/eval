@@ -1,0 +1,12 @@
+eval_loss	0.8672323822975159
+eval_F1_Score	0.7621003698411356
+eval_runtime	1.5575
+eval_samples_per_second	385.229
+eval_steps_per_second	6.42
+epoch	3.0
+
+--------------------Model Information--------------------
+ModelName: roberta-large
+Parameters: 500-5e-05-0.1
+random seed = 130
+--------------------Training Arguments --------------------

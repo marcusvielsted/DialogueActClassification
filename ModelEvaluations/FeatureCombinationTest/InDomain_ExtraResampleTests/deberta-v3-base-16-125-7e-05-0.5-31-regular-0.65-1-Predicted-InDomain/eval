@@ -1,0 +1,12 @@
+eval_loss	1.4874552488327026
+eval_F1_Score	0.8095397595753469
+eval_runtime	1.8672
+eval_samples_per_second	321.33
+eval_steps_per_second	5.356
+epoch	5.0
+
+--------------------Model Information--------------------
+ModelName:	microsoft/deberta-v3-base
+Parameters:	16-125-7e-05-0.5-31-regular-0.65-1-Predicted-InDomain
+random seed =	1
+--------------------Training Arguments --------------------
